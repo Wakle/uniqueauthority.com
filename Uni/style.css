@@ -1,0 +1,104 @@
+*{
+	margin: 0; padding: 0; box-sizing: border-box;
+	font-family: 'Josefin Sans', sans-serif;
+}
+body a{
+	padding: 12px 15px;
+	border-radius: 4px;
+	outline:none;
+	text-transform: uppercase;
+	font-size: 15px;
+	font-weight: 500;
+	text-decoration: none;
+	color: black;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	background: linear-gradient(57deg, #1e4d92, #00c6a7	);
+	background-size: cover;	
+	background-position: 200% 500%;
+	display: flex;
+}
+
+header{
+	width: auto; height: 100vh;
+	background: transparent;
+	clip-path: polygon(% 0%, 100% 0%, 100% 75%, 0% 100%);
+	background-repeat: no-repeat;
+	background-size: cover; 
+}
+
+body .btnone{
+	height: 2vh;
+	width: 20%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+body .btntwo{
+	height:2vh;
+	width: 20%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+
+body .btnthree{
+	height: 2vh;
+	width: 20%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+body .btnfour{
+	height: 2vh;
+	width: 20%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+body .btnfive{
+	height: 2vh;
+	width: 20%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+body .btnsix{
+	height: 2vh;
+	width: 20%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+}
+
+body .btnseven{
+	height: 2vh;
+	width: 20%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+body .btneight{
+	height: 2vh;
+	width: 20%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+body .btnnine{
+	height: 2vh;
+	width: 20%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
